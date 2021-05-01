@@ -242,9 +242,9 @@
   * [Reorder Log Files](937. Reorder Log Files.md)
   * [Remove Invalid Parentheses](301. Remove Invalid Parentheses.md)
   * [Add Binary](67. Add Binary.md)
-* [Text Justification](68. Text Justification.md)
+  * [Text Justification](68. Text Justification.md)
   
-  * [**Sliding window substring类**]()
+* [**Sliding window substring类**]()
   	* [**Minimum Window Substring**](76. Minimum Window Substring.md)
   	* [Longest Substring Without Repeating Characters](3. Longest Substring Without Repeating Characters.md)
   	* [Longest Substring with At Most Two Distinct Characters](159. Longest Substring with At Most Two Distinct Characters.md)
