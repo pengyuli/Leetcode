@@ -68,7 +68,7 @@ string.equals()
 
 string.equalsIgnoreCase()
 
-String(charArray)
+**String(charArray)**
 
 ## Integer
 Integer.valueOf() string 转化成int
