@@ -150,6 +150,8 @@
   * [Memorization]()
   	 * [Word Break II.md](140. Word Break II.md)
 
+  * [Jump Game II](45. Jump Game II.md)
+
 * [Dynamic Programming](Dynamic Programming.md)
   * [1Sequence]()
   	 * [Climbing Stairs](70. Climbing Stairs.md)
@@ -181,11 +183,19 @@
      * [**Best Time to Buy and Sell Stock IV**](188. Best Time to Buy and Sell Stock IV.md)
    * [other]()
      * [Cherry Pickup](741. Cherry Pickup.md)  
-  
+ 
+* [双指针问题]()
+   * [Move Zeroes](283. Move Zeroes.md)
+   * [Remove Element](27. Remove Element.md)
+	* [Remove Duplicates from Sorted Array](26. Remove Duplicates from Sorted Array.md)
+	* [Remove Duplicates from Sorted Array II](80. Remove Duplicates from Sorted Array II.md)
+	* [Positions of Large Groups](830. Positions of Large Groups.md)
+	* [Max Consecutive Ones](485. Max Consecutive Ones.md)
+	* [Max Consecutive Ones II](487. Max Consecutive Ones II.md)
+	* [Max Consecutive Ones III](1004. Max Consecutive Ones III.md)
+	* [Maximize Distance to Closest Person](849. Maximize Distance to Closest Person.md)
+
 * [Array](Array.md)
-  * [Remove Duplicates from Sorted Array](26. Remove Duplicates from Sorted Array.md)
-  * [Remove Duplicates from Sorted Array II](80. Remove Duplicates from Sorted Array II.md)
-  * [Move Zeroes](283. Move Zeroes.md)
   * [Best Time to Buy and Sell Stock](121. Best Time to Buy and Sell Stock.md)
   * [Best Time to Buy and Sell Stock II](122. Best Time to Buy and Sell Stock II.md)
   * [左右两次遍历]()
@@ -208,12 +218,16 @@
   * [Merge Sorted Array](88. Merge Sorted Array.md)
   * [Search a 2D Matrix II](240. Search a 2D Matrix II.md)
   * [Design Tic-Tac-Toe](348. Design Tic-Tac-Toe.md)
+  * [Random Pick Index](398. Random Pick Index.md)
 	* [subarray问题]()
   		* [**Minimum Size Subarray Sum**](209. Minimum Size Subarray Sum.md)
   		* [**Maximum Size Subarray Sum Equals k**](325. Maximum Size Subarray Sum Equals k.md)
-  		* [Subarray Sum Equals K](560. Subarray Sum Equals K.md)
+  		* [**Subarray Sum Equals K**](560. Subarray Sum Equals K.md)
   		* [**[Lintcode]139. Subarray Sum Closest**]([Lintcode]139. Subarray Sum Closest .md)
   		* [**Subarray Sums Divisible by K**](974. Subarray Sums Divisible by K.md)
+	* HashCode
+		* [Line Reflection](356. Line Reflection.md) 	
+
 * [String](String.md)
   
   * [Reverse String](344. Reverse String.md)
@@ -254,6 +268,7 @@
   
 * [Trie](Trie.md)
   	* [Implement Trie](208. Implement Trie.md)
+  	* [Implement Trie II ](1804. Implement Trie II (Prefix Tree).md)
   	* [Design Search Autocomplete System](642. Design Search Autocomplete System.md)
   	* [**Map Sum Pairs**](677. Map Sum Pairs.md)
   	* [Replace Words](648. Replace Words.md)
@@ -296,7 +311,6 @@
 
 * [Stack]()
      * [Valid Parentheses](20. Valid Parentheses.md)
-     * [Largest Rectangle in Histogram](84. Largest Rectangle in Histogram.md)
      * [Maximal Rectangle](85. Maximal Rectangle.md)
      * [Evaluate Reverse Polish Notation](150. Evaluate Reverse Polish Notation.md)
      * [Min Stack](155. Min Stack.md)
@@ -307,6 +321,17 @@
      * [**Basic Calculator III**](772. Basic Calculator III.md)
      * [ **Flatten Nested List Iterator**](341. Flatten Nested List Iterator.md)
      * [Add Two Numbers II.md](445. Add Two Numbers II.md)
+     * [Minimum Remove to Make Valid Parentheses](1249. Minimum Remove to Make Valid Parentheses.md)
+     * [Remove All Adjacent Duplicates In String](1047. Remove All Adjacent Duplicates In String.md)
+
+
+* [Monotonic stack](Monotonic stack单调栈.md)
+	 * [Next Greater Element I](496. Next Greater Element I.md)
+	 * [Next Greater Element II](503. Next Greater Element II.md)
+	 * [Daily Temperatures](739. Daily Temperatures.md)
+	 * [Online Stock Span](901. Online Stock Span.md)
+	 * [Largest Rectangle in Histogram](84. Largest Rectangle in Histogram.md)
+
 * [HashTable]()
      * [Jewels and Stones](771. Jewels and Stones.md)
  
@@ -335,8 +360,6 @@
      * [Meeting Rooms](252. Meeting Rooms.md)
      * [**Meeting Rooms II**](253. Meeting Rooms II.md)
      * [[Lintcode]391. Number of Airplanes in the Sky]([Lintcode]391. Number of Airplanes in the Sky.md)
-   * [简单题]()
-     * [Positions of Large Groups](830. Positions of Large Groups.md)
 
 * [Design]()
    * [LRU Cache](146. LRU Cache.md)
